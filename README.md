@@ -1,5 +1,9 @@
 # mango
 
+wget https://github.com/Haris131/mango/raw/main/badvpn_1.999.130-1_mipsel_24kc.ipk
+
+wget https://github.com/Haris131/mango/raw/main/corkscrew_2.0-1_mipsel_24kc.ipk
+
 Cara install badvpn 
 ==================
 1. upload file ipk badvpn ke folder '/tmp' melalui winscp
